@@ -1,0 +1,38 @@
+mome = "Pedro"
+idade = 20
+
+print(nome)
+print(idade)
+
+          /nome
+conteúdo  
+          \idade  
+
+
+print("Bom dia! " + nome, + como você está?")
+
+print("Você tem: " + idade + " anos ")
+
+idade = int(input("Digite sua idade: "))
+
+
+digite sua idade:
+
+print("A soma é: " + soma)
+
+nota1 = float(input("Digite a primeira nota: "))
+nota2 = float(input("Digite a primeira nota: "))
+nota3 = float(input("Digite a primeira nota: "))
+
+media = (nota1 + nota2 + nota3) / 3
+
+print("A Média é: ", round(media, 2))
+
+
+frutas = = ["maçã, "banana", "laranja"]
+
+print("Primeira fruta: ", frutas[0])
+
+- lista, sempre usa:  [ ]
+- lista, -1 último item da lista, ou seja, laranja
+e -2 antepenúltima, ou seja, banana.
